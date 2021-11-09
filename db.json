@@ -4,10 +4,90 @@
       "email": "kenzinho@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
-      "age": 38,
       "id": 1
     }
   ],
-  "products": [],
+  "products": {
+    "cpu": [
+      {
+        "model": "AMD Ryzen 5 3600",
+        "cores": "6",
+        "threads": "12",
+        "socket": "AM4",
+        "baseClock": "3.6",
+        "coolerBox": true,
+        "graphics": false,
+        "price": 1678.31,
+        "img": "https://static.meupc.net/produto/processador-amd-ryzen-5-3600-100100000031box-jXdm89-L.jpg"
+      }
+    ],
+    "cooler": [
+      {
+        "model": "Scythe Ninja 5",
+        "socketCompatibility": ["AM4", "LGA1156", "LGA1200", "LGA1366"],
+        "fanMinSpeed": "300",
+        "fanMaxSpeed": "800",
+        "price": 399.99,
+        "img": "https://static.meupc.net/produto/cooler-processador-scythe-ninja-5-vL48Js-L.jpg"
+      }
+    ],
+    "gpu": [
+      {
+        "model": "RX 6600 Eagle",
+        "memory": "GDDR6",
+        "vram": "8GB",
+        "cudaCores": "1792",
+        "memClock": "16000",
+        "output": ["2x DisplayPort", "2x HDMI"],
+        "psuWattage": "500",
+        "price": 5176.35
+      }
+    ],
+    "motherboard": [
+      {
+        "model": "Asus PRIME Z590-PLUS",
+        "chipset": "Intel Z590",
+        "memory": {
+          "max": "128GB",
+          "tech": "DDR4",
+          "slots": 4
+        },
+        "graphicsOutput": ["1x DisplayPort", "1x DVI-D", "1x HDMI"],
+        "pcie16": 2,
+        "storage": {
+          "sata": 5,
+          "m2": 3
+        },
+        "usb": 8,
+        "price": 1646.94,
+        "img": "https://static.meupc.net/produto/placa-mae-asus-prime-z590m-plus-jYd44z-L.jpg"
+      }
+    ],
+    "ram": [
+      {
+        "model": "model"
+      }
+    ],
+    "drive": [
+      {
+        "model": "model"
+      }
+    ],
+    "case": [
+      {
+        "model": "model"
+      }
+    ],
+    "font": [
+      {
+        "model": "model"
+      }
+    ],
+    "peripherals": [
+      {
+        "model": "model"
+      }
+    ]
+  },
   "cart": []
 }
