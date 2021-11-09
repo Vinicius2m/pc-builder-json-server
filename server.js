@@ -9,9 +9,9 @@ const router = jsonServer.router("db.json");
 app.db = router.db;
 
 const rules = auth.rewriter({
-  users: 644,
-  pokemons: 664,
-  digimons: 644,
+  users: 600,
+  products: 444,
+  cart: 640,
 });
 
 app.use(cors());
