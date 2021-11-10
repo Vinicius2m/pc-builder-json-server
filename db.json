@@ -10,82 +10,274 @@
   "products": {
     "cpu": [
       {
-        "model": "AMD Ryzen 5 3600",
+        "model": "Processador AMD Ryzen 5 3600, AM4, 3.6GHz",
+        "img": "https://static.meupc.net/produto/processador-amd-ryzen-5-3600-100100000031box-jXdm89-L.jpg",
         "cores": "6",
         "threads": "12",
         "socket": "AM4",
         "baseClock": "3.6",
         "coolerBox": true,
         "graphics": false,
-        "price": 1678.31,
-        "img": "https://static.meupc.net/produto/processador-amd-ryzen-5-3600-100100000031box-jXdm89-L.jpg"
+        "price": 1678.31
+      },
+      {
+        "model": "Processador AMD Ryzen 5 3600, AM4, 3.6GHz",
+        "img": "https://static.meupc.net/produto/processador-amd-ryzen-5-3600-100100000031box-jXdm89-L.jpg",
+        "cores": "6",
+        "threads": "12",
+        "socket": "AM4",
+        "baseClock": "3.6",
+        "coolerBox": true,
+        "graphics": false,
+        "price": 1678.31
+      },
+      {
+        "model": "Processador AMD Ryzen 5 3600, AM4, 3.6GHz",
+        "img": "https://static.meupc.net/produto/processador-amd-ryzen-5-3600-100100000031box-jXdm89-L.jpg",
+        "cores": "6",
+        "threads": "12",
+        "socket": "AM4",
+        "baseClock": "3.6",
+        "coolerBox": true,
+        "graphics": false,
+        "price": 1678.31
+      },
+      {
+        "model": "Processador AMD Ryzen 5 3600, AM4, 3.6GHz",
+        "img": "https://static.meupc.net/produto/processador-amd-ryzen-5-3600-100100000031box-jXdm89-L.jpg",
+        "cores": "6",
+        "threads": "12",
+        "socket": "AM4",
+        "baseClock": "3.6",
+        "coolerBox": true,
+        "graphics": false,
+        "price": 1678.31
       }
     ],
     "cooler": [
       {
-        "model": "Scythe Ninja 5",
+        "model": "Cooler para Processador Scythe Ninja 5, Intel/AMD",
+        "img": "",
         "socketCompatibility": ["AM4", "LGA1156", "LGA1200", "LGA1366"],
         "fanMinSpeed": "300",
         "fanMaxSpeed": "800",
-        "price": 399.99,
-        "img": "https://static.meupc.net/produto/cooler-processador-scythe-ninja-5-vL48Js-L.jpg"
+        "price": 399.99
+      },
+      {
+        "model": "Cooler para Processador Scythe Ninja 5, Intel/AMD",
+        "img": "",
+        "socketCompatibility": ["AM4", "LGA1156", "LGA1200", "LGA1366"],
+        "fanMinSpeed": "300",
+        "fanMaxSpeed": "800",
+        "price": 399.99
+      },
+      {
+        "model": "Cooler para Processador Scythe Ninja 5, Intel/AMD",
+        "img": "",
+        "socketCompatibility": ["AM4", "LGA1156", "LGA1200", "LGA1366"],
+        "fanMinSpeed": "300",
+        "fanMaxSpeed": "800",
+        "price": 399.99
       }
     ],
     "gpu": [
       {
-        "model": "RX 6600 Eagle",
+        "model": "Placa de Vídeo Zotac NVIDIA GeForce 6GB, GDDR6",
+        "img": "https://static.meupc.net/produto/placa-video-zotac-geforce-rtx-2060-geforcertx2060gaming6gb-xm5w2F-L.jpg",
         "memory": "GDDR6",
-        "vram": "8GB",
-        "cudaCores": "1792",
-        "memClock": "16000",
-        "output": ["2x DisplayPort", "2x HDMI"],
+        "vram": "6GB",
+        "cudaCores": "1920",
+        "memClock": "14000",
+        "output": ["3x DisplayPort", "1x HDMI"],
         "psuWattage": "500",
-        "price": 5176.35
+        "price": 4235.18
+      },
+      {
+        "model": "Placa de Vídeo Zotac NVIDIA GeForce 6GB, GDDR6",
+        "img": "https://static.meupc.net/produto/placa-video-zotac-geforce-rtx-2060-geforcertx2060gaming6gb-xm5w2F-L.jpg",
+        "memory": "GDDR6",
+        "vram": "6GB",
+        "cudaCores": "1920",
+        "memClock": "14000",
+        "output": ["3x DisplayPort", "1x HDMI"],
+        "psuWattage": "500",
+        "price": 4235.18
+      },
+      {
+        "model": "Placa de Vídeo Zotac NVIDIA GeForce 6GB, GDDR6",
+        "img": "https://static.meupc.net/produto/placa-video-zotac-geforce-rtx-2060-geforcertx2060gaming6gb-xm5w2F-L.jpg",
+        "memory": "GDDR6",
+        "vram": "6GB",
+        "cudaCores": "1920",
+        "memClock": "14000",
+        "output": ["3x DisplayPort", "1x HDMI"],
+        "psuWattage": "500",
+        "price": 4235.18
       }
     ],
     "motherboard": [
       {
-        "model": "Asus PRIME Z590-PLUS",
+        "model": "Placa Mãe Asus PRIME Z590-PLUS, Intel LGA1200, ATX, DDR4",
+        "img": "https://static.meupc.net/produto/placa-mae-asus-prime-z590m-plus-jYd44z-L.jpg",
         "chipset": "Intel Z590",
-        "memory": {
-          "max": "128GB",
-          "tech": "DDR4",
-          "slots": 4
-        },
+        "socket": "LGA1200",
+        "memory": { "max": "128GB", "tech": "DDR4", "slots": 4 },
         "graphicsOutput": ["1x DisplayPort", "1x DVI-D", "1x HDMI"],
         "pcie16": 2,
-        "storage": {
-          "sata": 5,
-          "m2": 3
-        },
+        "storage": { "sata": 5, "m2": 3 },
         "usb": 8,
-        "price": 1646.94,
-        "img": "https://static.meupc.net/produto/placa-mae-asus-prime-z590m-plus-jYd44z-L.jpg"
+        "size": "ATX",
+        "price": 1646.94
+      },
+      {
+        "model": "Placa Mãe Gigabyte B550M Aorus Elite AMD AM4, mATX, DDR4",
+        "img": "https://static.meupc.net/produto/placa-mae-gigabyte-b550m-aorus-elite-bZd7k5-L.jpg",
+        "chipset": "AMD B550M",
+        "socket": "AM4",
+        "memory": { "max": "128GB", "tech": "DDR4", "slots": 4 },
+        "graphicsOutput": ["1x DVI-D", "1x HDMI"],
+        "pcie16": 2,
+        "storage": { "sata": 4, "m2": 2 },
+        "usb": 8,
+        "size": "mATX",
+        "price": 1046.94
+      },
+      {
+        "model": "Placa Mãe Asus ROG Strix X570-E Gaming, AMD LGA1200, ATX, DDR4",
+        "img": "https://static.meupc.net/produto/placa-mae-asus-rog-strix-x570-e-gaming-km49AQ-L.jpg",
+        "chipset": "AMD X570-E",
+        "socket": "AM4",
+        "memory": { "max": "128GB", "tech": "DDR4", "slots": 4 },
+        "graphicsOutput": ["1x DisplayPort", "1x HDMI"],
+        "pcie16": 3,
+        "storage": { "sata": 8, "m2": 1 },
+        "usb": 6,
+        "size": "ATX",
+        "price": 3170.13
+      },
+      {
+        "model": "Placa Mãe Gigabyte Z390 M Gaming, Intel LGA1151, mATX, DDR4",
+        "img": "https://static.meupc.net/produto/placa-mae-asrock-z390-m-gaming-o9Ny5u-L.jpg",
+        "chipset": "Intel Z390M",
+        "socket": "LGA1151",
+        "memory": { "max": "64GB", "tech": "DDR4", "slots": 4 },
+        "graphicsOutput": ["1x DVI-D", "1x HDMI"],
+        "pcie16": 2,
+        "storage": { "sata": 6, "m2": 2 },
+        "usb": 5,
+        "size": "mATX",
+        "price": 1258.71
       }
     ],
     "ram": [
       {
-        "model": "model"
+        "model": "Memória RAM Crucial Ballistix 8GB DDR4 2666MHz",
+        "img": "https://images.kabum.com.br/produtos/fotos/135291/memoria-ram-crucial-ballistix-8gb-ddr4-2666-mhz-cl16-udimm-preto-bl8g26c16u4b_1609871709_gg.jpg",
+        "clock": "2666",
+        "capacity": "8GB",
+        "tech": "DDR4",
+        "price": 305.76
+      },
+      {
+        "model": "Memória RAM Corsair Vengeance RGB Pro 8GB DDR4 3200MHz",
+        "img": "https://static.meupc.net/produto/memoria-corsair-vengeance-pro-cmw8gx4m1z3200c16-jVap79-L.jpg",
+        "clock": "3200",
+        "capacity": "8GB",
+        "tech": "DDR4",
+        "price": 541.06
+      },
+      {
+        "model": "Memória RAM Kingston HyperX Fury RGB 8GB DDR4 3000MHz",
+        "img": "https://static.meupc.net/produto/memoria-kingston-hyperx-fury-rgb-8-gb-hx430c15fb3a8-bin64H-L.jpg",
+        "clock": "3000",
+        "capacity": "8GB",
+        "tech": "DDR4",
+        "price": 471.12
       }
     ],
     "drive": [
       {
-        "model": "model"
+        "model": "HDD Seagate 2TB Barracuda, SATA, 6GB/s",
+        "img": "https://static.meupc.net/produto/hdd-seagate-skyhawk-barracuda2tb-wJ8e5F-L.jpg",
+        "capacity": "2TB",
+        "rpm": "7200",
+        "cache": "256MB",
+        "type": "HDD",
+        "output": "SATA",
+        "price": 458.71
+      },
+      {
+        "model": "SSD Sandisk Plus 480GB, SATA, Leitura 535MB/s, Gravação 445MB/s",
+        "img": "https://static.meupc.net/produto/ssd-sandisk-ssd-plus-sdssda480gg26-yA3J75-L.jpg",
+        "capacity": "480GB",
+        "type": "SSD",
+        "output": "SATA",
+        "price": 492.82
+      },
+      {
+        "model": "SSD Samsung 970 EVO Plus 1TB, M.2 NVMe, Leitura 3500MB/s, Gravação 3300MB/s",
+        "img": "https://static.meupc.net/produto/ssd-samsung-970-evo-plus-970evoplus1tb-ma4uu6-L.jpg",
+        "capacity": "1TB",
+        "type": "SSD",
+        "output": "M.2 NVMe",
+        "price": 1281.35
       }
     ],
     "case": [
       {
-        "model": "model"
+        "model": "model",
+        "img": "https://static.meupc.net/produto/gabinete-corsair-carbide-spec-05-cc9011138ww-rp5mc6-L.jpg",
+        "size": "Mid Tower",
+        "moboSize": "ATX",
+        "bays": { "3.5": 2, "2.5": 3 },
+        "price": 541.06
+      },
+      {
+        "model": "model",
+        "img": "https://static.meupc.net/produto/gabinete-corsair-carbide-spec-05-cc9011138ww-rp5mc6-L.jpg",
+        "size": "Mid Tower",
+        "moboSize": "ATX",
+        "bays": { "3.5": 2, "2.5": 3 },
+        "price": 541.06
+      },
+      {
+        "model": "model",
+        "img": "https://static.meupc.net/produto/gabinete-corsair-carbide-spec-05-cc9011138ww-rp5mc6-L.jpg",
+        "size": "Mid Tower",
+        "moboSize": "ATX",
+        "bays": { "3.5": 2, "2.5": 3 },
+        "price": 541.06
       }
     ],
     "font": [
       {
-        "model": "model"
+        "model": "model",
+        "img": "https://static.meupc.net/produto/fonte-corsair-cv-cv550550w80plusbronze-t8T6tP-L.jpg",
+        "power": "550",
+        "voltage": "100-240V",
+        "certificate": "80 Plus Bronze",
+        "price": 383.41
+      },
+      {
+        "model": "model",
+        "img": "https://static.meupc.net/produto/fonte-corsair-cv-cv550550w80plusbronze-t8T6tP-L.jpg",
+        "power": "550",
+        "voltage": "100-240V",
+        "certificate": "80 Plus Bronze",
+        "price": 383.41
+      },
+      {
+        "model": "model",
+        "img": "https://static.meupc.net/produto/fonte-corsair-cv-cv550550w80plusbronze-t8T6tP-L.jpg",
+        "power": "550",
+        "voltage": "100-240V",
+        "certificate": "80 Plus Bronze",
+        "price": 383.41
       }
     ],
     "peripherals": [
       {
-        "model": "model"
+        "name": "name"
       }
     ]
   },
