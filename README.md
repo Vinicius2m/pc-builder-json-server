@@ -1,3 +1,7 @@
+# URL base da API
+
+https://pc-builder-json-api.herokuapp.com/
+
 ## Endpoints
 
 Assim como a documentação do JSON-Server-Auth traz (https://www.npmjs.com/package/json-server-auth), existem 3 endpoints que podem ser utilizados para cadastro e 2 endpoints que podem ser usados para login.
@@ -54,6 +58,7 @@ A requisição GET /products pode ser usada pra listar todos os produtos já cad
 
 POST /cart <br/>
 GET /cart <br/>
+PATCH /cart <br/>
 DEL /cart
 
 A requisição POST /cart pode ser usada para cadastrar novos produtos no carrinho. Qualquer usuário logado pode cadastrar uma novo produto no carrinho, bastando apenas que informe o Bearer Token no cabeçalho da requisição (Authorization: Bearer {token}), e passe no corpo da requisição os dados do novo produto a ser cadastrado no carrinho (os novos dados podem ser escolhidos à vontade pelo usuário), como, por exemplo:
