@@ -794,9 +794,11 @@
         "certificate": "80+ Bronze",
         "price": 289.9,
         "description": [
-          "power: 550 W",
-          "voltage: 100-240V",
-          "certificate: 80+ Bronze"
+          "Marca: Corsair",
+          "Modelo: CV550",
+          "Potência: 550 W",
+          "Voltagem: 100-240V",
+          "Certificado: 80+ Bronze"
         ]
       },
       {
@@ -807,7 +809,13 @@
         "voltage": "100-240V",
         "certificate": "80+",
         "price": 229.9,
-        "description": ["power: 400 W", "voltage: 100-240V", "certificate: 80+"]
+        "description": [
+          "Marca: AeroCool",
+          "Modelo: KCAS",
+          "Potência: 400 W",
+          "Voltagem: 100-240V",
+          "Certificado: 80+"
+        ]
       },
       {
         "id": 73,
@@ -818,51 +826,59 @@
         "certificate": "80+ Bronze",
         "price": 929.9,
         "description": [
-          "power: 750 W",
-          "voltage: 100-240V",
-          "certificate: 80+ Bronze"
+          "Marca: Corsair",
+          "Modelo: CX750M",
+          "Potência: 750 W",
+          "Voltagem: 100-240V",
+          "Certificadp: 80+ Bronze"
         ]
       },
       {
         "id": 74,
         "model": "Fonte Corsair HX1000i 1000 W ATX12V / EPS12V",
-        "img": "https://static.meupc.net/produto/fonte-corsair-cxm-cx750m-hNkw98-L.jpg",
+        "img": "https://static.meupc.net/produto/fonte-corsair-hxi-hx1000i-cVL24I-L.jpg",
         "power": "1000 W",
         "voltage": "100-240V",
         "certificate": "80+ Platinum",
         "price": 4583.42,
         "description": [
-          "power: 1000 W",
-          "voltage: 100-240V",
-          "certificate: 80+ Platinum"
+          "Marca: Corsair",
+          "Modelo: HX1000i",
+          "Potência: 1000 W",
+          "Voltagem: 100-240V",
+          "Certificado: 80+ Platinum"
         ]
       },
       {
         "id": 75,
         "model": "Fonte Corsair CX650 650 W ATX12V",
-        "img": "https://static.meupc.net/produto/fonte-corsair-cxm-cx750m-hNkw98-L.jpg",
+        "img": "https://static.meupc.net/produto/fonte-corsair-cx-cx650-nT564J-L.jpg",
         "power": "650 W",
         "voltage": "100-240V",
         "certificate": "80+ Bronze",
         "price": 409.9,
         "description": [
-          "power: 650 W",
-          "voltage: 100-240V",
-          "certificate: 80+ Bronze"
+          "Marca: Corsair",
+          "Modelo: CX650",
+          "Potência: 650 W",
+          "Voltagem: 100-240V",
+          "Certificado: 80+ Bronze"
         ]
       },
       {
         "id": 76,
         "model": "Fonte Corsair RM650X 650 W ATX12V / EPS12V",
-        "img": "https://static.meupc.net/produto/fonte-corsair-cxm-cx750m-hNkw98-L.jpg",
+        "img": "https://static.meupc.net/produto/fonte-corsair-rmx-rm650x-utG2k5-L.jpg",
         "power": "650 W",
         "voltage": "100-240V",
         "certificate": "80+ Gold",
         "price": 719.9,
         "description": [
-          "power: 650 W",
-          "voltage: 100-240V",
-          "certificate: 80+ Gold"
+          "Marca: Corsair",
+          "Modelo: RM650X",
+          "Potência: 650 W",
+          "Voltagem: 100-240V",
+          "Certificado: 80+ Gold"
         ]
       }
     ],
