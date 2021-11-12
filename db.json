@@ -10,7 +10,7 @@
   "products": {
     "cpu": [
       {
-        "id": 1,
+        "productID": 1,
         "model": "Processador AMD Ryzen 5 3600, AM4, 3.6GHz",
         "img": "https://static.meupc.net/produto/processador-amd-ryzen-5-3600-100100000031box-jXdm89-L.jpg",
         "cores": "6",
@@ -32,7 +32,7 @@
         ]
       },
       {
-        "id": 2,
+        "productID": 2,
         "model": "Processador AMD Ryzen 7 5800X, AM4, 3.8GHz",
         "img": "https://static.meupc.net/produto/processador-amd-ryzen-7-5800x-100100000063wof-g3T5mn-L.jpg",
         "cores": "8",
@@ -54,7 +54,7 @@
         ]
       },
       {
-        "id": 3,
+        "productID": 3,
         "model": "Processador AMD Ryzen 9 5900X, AM4, 3.7 GHz",
         "img": "https://static.meupc.net/produto/processador-amd-ryzen-9-5900x-100100000061wof-Bjt4U3-L.jpg",
         "cores": "12",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "id": 4,
+        "productID": 4,
         "model": "Processador Intel Core i3-10100F, LGA 1200, 3.6 GHz",
         "img": "https://static.meupc.net/produto/processador-intel-core-i3-10100f-bx8070110100f-CTk878-L.jpg",
         "cores": "4",
@@ -98,7 +98,7 @@
         ]
       },
       {
-        "id": 5,
+        "productID": 5,
         "model": "Processador Intel Core i3-10100, LGA 1200, 3.6 GHz",
         "img": "https://static.meupc.net/produto/processador-intel-core-i3-10100f-bx8070110100f-CTk878-L.jpg",
         "cores": "4",
@@ -120,7 +120,7 @@
         ]
       },
       {
-        "id": 6,
+        "productID": 6,
         "model": "Processador Intel Core i5-11600K, LGA 1200, 3.9 GHz",
         "img": "https://static.meupc.net/produto/processador-intel-core-i5-11600k-bx8070811600k-ATXe46-L.jpg",
         "cores": "6",
@@ -142,7 +142,7 @@
         ]
       },
       {
-        "id": 7,
+        "productID": 7,
         "model": "Processador Intel Core i7-11700K, LGA 1200, 3.6 GHz",
         "img": "https://static.meupc.net/produto/processador-intel-core-i7-11700k-bx8070811700k-dHBH99-L.jpg",
         "cores": "8",
@@ -164,7 +164,7 @@
         ]
       },
       {
-        "id": 8,
+        "productID": 8,
         "model": "Processador Intel Core i9-11900K, LGA 1200, 3.5 GHz",
         "img": "https://static.meupc.net/produto/processador-intel-core-i9-11900k-bx8070811900k-sX5Lj2-L.jpg",
         "cores": "8",
@@ -188,7 +188,7 @@
     ],
     "cooler": [
       {
-        "id": 11,
+        "productID": 11,
         "model": "Cooler para Processador Scythe Ninja 5, Intel/AMD",
         "img": "https://static.meupc.net/produto/cooler-processador-scythe-ninja-5-vL48Js-L.jpg",
         "socketCompatibility": ["AM4", "LGA1156", "LGA1200", "LGA1366"],
@@ -203,7 +203,7 @@
         ]
       },
       {
-        "id": 12,
+        "productID": 12,
         "model": "Cooler de processador PCYes Nótus A Hidráulico",
         "img": "https://static.meupc.net/produto/cooler-processador-pcyes-notus-a-qoy442-L.jpg",
         "socketCompatibility": ["AM4", "FM1", "AM3", "AM2"],
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "id": 13,
+        "productID": 13,
         "model": "Cooler de processador Cooler Master Hyper H411R Fluido Dinâmico",
         "img": "https://static.meupc.net/produto/cooler-processador-cooler-master-hyper-h411r-ir5Ew2-L.jpg",
         "socketCompatibility": ["AM4", "LGA1156", "LGA1200", "LGA1366"],
@@ -233,7 +233,7 @@
         ]
       },
       {
-        "id": 14,
+        "productID": 14,
         "model": "Cooler de processador Thermaltake Frio Extreme CLP0587",
         "img": "https://static.meupc.net/produto/cooler-processador-thermaltake-frio-extreme-clp0587-xG3I7r-L.jpg",
         "socketCompatibility": ["AM4", "LGA1156", "LGA1200", "LGA1366"],
@@ -248,7 +248,7 @@
         ]
       },
       {
-        "id": 15,
+        "productID": 15,
         "model": "Water Cooler Deepcool Gammaxx L120 V2 RGB",
         "img": "https://static.meupc.net/produto/cooler-processador-deepcool-gammaxx-l120-v2-Bz9n9S-L.jpg",
         "socketCompatibility": ["AM4", "LGA1156", "LGA1200", "LGA1366"],
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "id": 16,
+        "productID": 16,
         "model": "Water Cooler Thermaltake Water 3.0 Riing RGB 280",
         "img": "https://static.meupc.net/produto/cooler-processador-cooler-master-hyper-h411r-ir5Ew2-L.jpg",
         "socketCompatibility": ["AM4", "LGA1156", "LGA1200", "LGA1366"],
@@ -280,7 +280,7 @@
     ],
     "gpu": [
       {
-        "id": 21,
+        "productID": 21,
         "model": "Placa de Vídeo Zotac NVIDIA GeForce RTX 2060, 6GB, GDDR6",
         "img": "https://static.meupc.net/produto/placa-video-zotac-geforce-rtx-2060-geforcertx2060gaming6gb-xm5w2F-L.jpg",
         "memory": "GDDR6",
@@ -300,7 +300,7 @@
         ]
       },
       {
-        "id": 22,
+        "productID": 22,
         "model": "Placa de Vídeo Gainward NVIDIA GeForce GTX 1650, 4GB D6 Ghost, GDDR6",
         "img": "https://static.meupc.net/produto/placa-video-gainward-geforce-gtx-1650-geforcegtx1650ghost4gb-xts49r-L.jpg",
         "memory": "GDDR6",
@@ -320,7 +320,7 @@
         ]
       },
       {
-        "id": 23,
+        "productID": 23,
         "model": "Placa de Vídeo Asus NVIDIA GeForce RTX 3090, 24GB, GDDR6X ROG STRIX GAMING",
         "img": "https://static.meupc.net/produto/placa-video-asus-geforce-rtx-3090-geforcertx3090rogstrix24gb-ki84UL-L.jpg",
         "memory": "GDDR6",
@@ -340,7 +340,7 @@
         ]
       },
       {
-        "id": 24,
+        "productID": 24,
         "model": "Placa de Vídeo PowerColor AMD Radeon RX 570, 4GB GDDR5",
         "img": "https://static.meupc.net/produto/placa-video-powercolor-radeon-rx-570-radeonrx5704gb-DAR334-L.jpg",
         "memory": "GDDR5",
@@ -360,7 +360,7 @@
         ]
       },
       {
-        "id": 25,
+        "productID": 25,
         "model": "Placa de Vídeo Asus TUF GAMING, AMD Radeon RX 6900 XT, 16GB, GDDR6",
         "img": "https://static.meupc.net/produto/placa-video-asus-radeon-rx-6900-xt-tufgamingradeonrx6900xt16gb-s64ojq-L.jpg",
         "memory": "GDDR6",
@@ -380,7 +380,7 @@
         ]
       },
       {
-        "id": 26,
+        "productID": 26,
         "model": "Placa de Vídeo PowerColor Red Devil AMD Radeon RX 6700 XT, 12GB, GDDR6",
         "img": "https://static.meupc.net/produto/placa-video-powercolor-radeon-rx-6700-xt-radeonrx6700xtreddevil12gb-o6DXj4-L.jpg",
         "memory": "GDDR6",
@@ -402,7 +402,7 @@
     ],
     "motherboard": [
       {
-        "id": 31,
+        "productID": 31,
         "model": "Placa Mãe Asus PRIME Z590-PLUS, Intel LGA1200, ATX, DDR4",
         "img": "https://static.meupc.net/produto/placa-mae-asus-prime-z590m-plus-jYd44z-L.jpg",
         "chipset": "Intel Z590",
@@ -416,7 +416,7 @@
         "price": 1646.94
       },
       {
-        "id": 32,
+        "productID": 32,
         "model": "Placa Mãe Gigabyte B550M Aorus Elite AMD AM4, mATX, DDR4",
         "img": "https://static.meupc.net/produto/placa-mae-gigabyte-b550m-aorus-elite-bZd7k5-L.jpg",
         "chipset": "AMD B550M",
@@ -430,7 +430,7 @@
         "price": 1046.94
       },
       {
-        "id": 33,
+        "productID": 33,
         "model": "Placa Mãe Asus ROG Strix X570-E Gaming, AMD LGA1200, ATX, DDR4",
         "img": "https://static.meupc.net/produto/placa-mae-asus-rog-strix-x570-e-gaming-km49AQ-L.jpg",
         "chipset": "AMD X570-E",
@@ -444,7 +444,7 @@
         "price": 3170.13
       },
       {
-        "id": 34,
+        "productID": 34,
         "model": "Placa Mãe Gigabyte Z390 M Gaming, Intel LGA1151, mATX, DDR4",
         "img": "https://static.meupc.net/produto/placa-mae-asrock-z390-m-gaming-o9Ny5u-L.jpg",
         "chipset": "Intel Z390M",
@@ -458,7 +458,7 @@
         "price": 1258.71
       },
       {
-        "id": 35,
+        "productID": 35,
         "model": "Placa-mãe Asus Prime B450M Gaming/BR Micro ATX, AMD B450, DDR4",
         "img": "https://static.meupc.net/produto/placa-mae-asus-prime-b450m-gaming-wv2v34-L.jpg",
         "chipset": "AMD B450",
@@ -472,7 +472,7 @@
         "price": 529.9
       },
       {
-        "id": 36,
+        "productID": 36,
         "model": "Placa-mãe MSI MEG Z490 ACE, Intel LGA1200, ATX, DDR4",
         "img": "https://static.meupc.net/produto/placa-mae-msi-meg-z490-ace-pXzx38-L.jpg",
         "chipset": "Intel Z490",
@@ -488,7 +488,7 @@
     ],
     "ram": [
       {
-        "id": 41,
+        "productID": 41,
         "model": "Memória RAM Crucial Ballistix 8GB DDR4 2666MHz",
         "img": "https://images.kabum.com.br/produtos/fotos/135291/memoria-ram-crucial-ballistix-8gb-ddr4-2666-mhz-cl16-udimm-preto-bl8g26c16u4b_1609871709_gg.jpg",
         "clock": 2666,
@@ -499,7 +499,7 @@
         "description": ["Clock: 2666Mhz", "Capacidade: 8GB", "Tecnologia: DDR4"]
       },
       {
-        "id": 42,
+        "productID": 42,
         "model": "Memória RAM Corsair Vengeance RGB Pro 8GB DDR4 3200MHz",
         "img": "https://static.meupc.net/produto/memoria-corsair-vengeance-pro-cmw8gx4m1z3200c16-jVap79-L.jpg",
         "clock": 3200,
@@ -510,7 +510,7 @@
         "description": ["Clock: 3200Mhz", "Capacidade: 8GB", "Tecnologia: DDR4"]
       },
       {
-        "id": 43,
+        "productID": 43,
         "model": "Memória RAM Kingston HyperX Fury RGB 8GB DDR4 3000MHz",
         "img": "https://static.meupc.net/produto/memoria-kingston-hyperx-fury-rgb-8-gb-hx430c15fb3a8-bin64H-L.jpg",
         "clock": 3000,
@@ -521,7 +521,7 @@
         "description": ["Clock: 3000Mhz", "Capacidade: 8GB", "Tecnologia: DDR4"]
       },
       {
-        "id": 44,
+        "productID": 44,
         "model": "Memória Kingston HyperX Fury 8 GB DDR4 2666MHZ",
         "img": "https://static.meupc.net/produto/memoria-kingston-hyperx-fury-hx426c16fb38-u3v75j-L.jpg",
         "clock": 2666,
@@ -532,7 +532,7 @@
         "description": ["Clock: 2666Mhz", "Capacidade: 8GB", "Tecnologia: DDR4"]
       },
       {
-        "id": 45,
+        "productID": 45,
         "model": "Memória G.Skill TridentZ RGB 16 GB (2x8 GB) DDR4-3200",
         "img": "https://static.meupc.net/produto/memoria-gskill-trident-z-16gb-f43200c16d16gtzr-upZ77c-L.jpg",
         "clock": 3200,
@@ -547,7 +547,7 @@
         ]
       },
       {
-        "id": 46,
+        "productID": 46,
         "model": "Memória Corsair Vengeance LPX 8 GB DDR4-2666",
         "img": "https://static.meupc.net/produto/memoria-corsair-vengeance-lpx-cmk8gx4m1a2666c16r-oQI49L-L.jpg",
         "clock": 2666,
@@ -564,7 +564,7 @@
     ],
     "drive": [
       {
-        "id": 51,
+        "productID": 51,
         "model": "HDD Seagate 2TB Barracuda, SATA, 6GB/s",
         "img": "https://static.meupc.net/produto/hdd-seagate-skyhawk-barracuda2tb-wJ8e5F-L.jpg",
         "capacity": "2TB",
@@ -584,7 +584,7 @@
         ]
       },
       {
-        "id": 52,
+        "productID": 52,
         "model": "SSD Sandisk Plus 480GB, SATA, Leitura 535MB/s, Gravação 445MB/s",
         "img": "https://static.meupc.net/produto/ssd-sandisk-ssd-plus-sdssda480gg26-yA3J75-L.jpg",
         "capacity": "480GB",
@@ -600,7 +600,7 @@
         ]
       },
       {
-        "id": 53,
+        "productID": 53,
         "model": "SSD Samsung 970 EVO Plus 1TB, M.2 NVMe, Leitura 3500MB/s, Gravação 3300MB/s",
         "img": "https://static.meupc.net/produto/ssd-samsung-970-evo-plus-970evoplus1tb-ma4uu6-L.jpg",
         "capacity": "1TB",
@@ -616,7 +616,7 @@
         ]
       },
       {
-        "id": 54,
+        "productID": 54,
         "model": "HDD Toshiba P300 3.5\" 7200 RPM",
         "img": "https://static.meupc.net/produto/hdd-toshiba-p300-p3001tb-gre9S7-L.jpg",
         "capacity": "1TB",
@@ -636,7 +636,7 @@
         ]
       },
       {
-        "id": 55,
+        "productID": 55,
         "model": "SSD Gigabyte Aorus M.2-2280",
         "img": "https://static.meupc.net/produto/ssd-gigabyte-ud-pro-aorusrgb512gb-jbd7v5-L.jpg",
         "capacity": "512 GB",
@@ -652,7 +652,7 @@
         ]
       },
       {
-        "id": 56,
+        "productID": 56,
         "model": "SSD Lexar NM100 M.2-2280 ",
         "img": "https://static.meupc.net/produto/ssd-lexar-aorus-nm100256gb-wer98Q-L.jpg",
         "capacity": "256 GB",
@@ -670,7 +670,7 @@
     ],
     "case": [
       {
-        "id": 61,
+        "productID": 61,
         "model": "Gabinete Nox Hummer TGM ATX Mid Tower (Preto)",
         "img": "https://static.meupc.net/produto/gabinete-nox-hummer-tgm-nxhummertgm-zg8ec8-L.jpg",
         "size": "Mid Tower",
@@ -689,7 +689,7 @@
         ]
       },
       {
-        "id": 62,
+        "productID": 62,
         "model": "Gabinete Deepcool MATREXX 50 ATX Mid Tower (Preto)",
         "img": "https://static.meupc.net/produto/gabinete-deepcool-matrexx-50-matrexx50-mZZs74-L.jpg",
         "size": "Mid Tower",
@@ -708,7 +708,7 @@
         ]
       },
       {
-        "id": 63,
+        "productID": 63,
         "model": "Gabinete Sharkoon M25 ATX Mid Tower (Branco)",
         "img": "https://static.meupc.net/produto/gabinete-sharkoon-m25-m25w-z3zGm5-L.jpg",
         "size": "Mid Tower",
@@ -727,7 +727,7 @@
         ]
       },
       {
-        "id": 64,
+        "productID": 64,
         "model": "Gabinete Corsair Carbide 275R ATX Mid Tower (Preto)",
         "img": "https://static.meupc.net/produto/gabinete-corsair-carbide-275r-cc9011130ww-fn28rh-L.jpg",
         "size": "Mid Tower",
@@ -746,7 +746,7 @@
         ]
       },
       {
-        "id": 65,
+        "productID": 65,
         "model": "Gabinete Cooler Master MASTERBOX MB520 ARGB ATX Mid Tower (Preto)",
         "img": "https://static.meupc.net/produto/gabinete-cooler-master-masterbox-mb520-argb-mcbb520kgnnrga-b65n9j-L.jpg",
         "size": "Mid Tower",
@@ -765,7 +765,7 @@
         ]
       },
       {
-        "id": 66,
+        "productID": 66,
         "model": "Gabinete Corsair iCUE 220T ATX Mid Tower (Preto / Branco)",
         "img": "https://static.meupc.net/produto/gabinete-corsair-icue-220t-cc9011191ww-eQn68C-L.jpg",
         "size": "Mid Tower",
@@ -786,7 +786,7 @@
     ],
     "font": [
       {
-        "id": 71,
+        "productID": 71,
         "model": "Fonte Corsair CV550 550 W ATX",
         "img": "https://static.meupc.net/produto/fonte-corsair-cv-cv550550w80plusbronze-t8T6tP-L.jpg",
         "power": "550 W",
@@ -802,7 +802,7 @@
         ]
       },
       {
-        "id": 72,
+        "productID": 72,
         "model": "Fonte AeroCool KCAS 400 W ATX",
         "img": "https://static.meupc.net/produto/fonte-aerocool-mwe-white-series-kcas-w9GtN9-L.jpg",
         "power": "400 W",
@@ -818,7 +818,7 @@
         ]
       },
       {
-        "id": 73,
+        "productID": 73,
         "model": "Fonte Corsair CX750M 750 W ATX12V",
         "img": "https://static.meupc.net/produto/fonte-corsair-cxm-cx750m-hNkw98-L.jpg",
         "power": "750 W",
@@ -834,7 +834,7 @@
         ]
       },
       {
-        "id": 74,
+        "productID": 74,
         "model": "Fonte Corsair HX1000i 1000 W ATX12V / EPS12V",
         "img": "https://static.meupc.net/produto/fonte-corsair-hxi-hx1000i-cVL24I-L.jpg",
         "power": "1000 W",
@@ -850,7 +850,7 @@
         ]
       },
       {
-        "id": 75,
+        "productID": 75,
         "model": "Fonte Corsair CX650 650 W ATX12V",
         "img": "https://static.meupc.net/produto/fonte-corsair-cx-cx650-nT564J-L.jpg",
         "power": "650 W",
@@ -866,7 +866,7 @@
         ]
       },
       {
-        "id": 76,
+        "productID": 76,
         "model": "Fonte Corsair RM650X 650 W ATX12V / EPS12V",
         "img": "https://static.meupc.net/produto/fonte-corsair-rmx-rm650x-utG2k5-L.jpg",
         "power": "650 W",
@@ -884,7 +884,7 @@
     ],
     "peripherals": [
       {
-        "id": 81,
+        "productID": 81,
         "model": "Teclado Redragon Kumara",
         "img": "https://static.meupc.net/produto/teclado-redragon-kumara-k552-AZ74wy-L.jpg",
         "price": 229.9,
@@ -897,7 +897,7 @@
         ]
       },
       {
-        "id": 82,
+        "productID": 82,
         "model": "Teclado HyperX Alloy Origins Core",
         "img": "https://static.meupc.net/produto/teclado-hyperx-alloy-origins-core-hxkb7rdxbr-CKp86Q-L.jpg",
         "price": 529.9,
@@ -910,7 +910,7 @@
         ]
       },
       {
-        "id": 83,
+        "productID": 83,
         "model": "Teclado Razer Huntsman",
         "img": "https://static.meupc.net/produto/teclado-razer-blackwidow-x-chroma-blackwidowxchroma-m4Wdo6-L.jpg",
         "price": 1961.71,
@@ -923,7 +923,7 @@
         ]
       },
       {
-        "id": 84,
+        "productID": 84,
         "model": "Teclado Multilaser TC160",
         "img": "https://static.meupc.net/produto/teclado-multilaser-tc160-tx2S76-L.jpg",
         "price": 39.9,
@@ -936,7 +936,7 @@
         ]
       },
       {
-        "id": 85,
+        "productID": 85,
         "model": "Monitor LG 29UM69G-B 29.0″ 2560 x 1080 75 Hz",
         "img": "https://static.meupc.net/produto/monitor-lg-29um69g-b-29um69gb-DrGS59-L.jpg",
         "price": 1599.41,
@@ -952,7 +952,7 @@
         ]
       },
       {
-        "id": 86,
+        "productID": 86,
         "model": "Monitor Acer KG241Q 23.6″ 1920 x 1080 144 Hz",
         "img": "https://static.meupc.net/produto/monitor-acer-kg241q-CyA62g-L.jpg",
         "price": 1429.22,
@@ -968,7 +968,7 @@
         ]
       },
       {
-        "id": 87,
+        "productID": 87,
         "model": "Monitor AOC 24G2/BK 23.8″ 1920 x 1080 144 Hz",
         "img": "https://static.meupc.net/produto/monitor-aoc-24g2bk-ARs95r-L.jpg",
         "price": 1629.9,
@@ -984,7 +984,7 @@
         ]
       },
       {
-        "id": 88,
+        "productID": 88,
         "model": "Monitor LG 34GL750 34.0″ 2560 x 1080 144 Hz",
         "img": "https://static.meupc.net/produto/monitor-lg-ultrawide-34gl750-b6zg7A-L.jpg",
         "price": 2899.9,
@@ -1000,7 +1000,7 @@
         ]
       },
       {
-        "id": 89,
+        "productID": 89,
         "model": "Monitor LG 29WK600 29.0″ 2560 x 1080 75 Hz",
         "img": "https://static.meupc.net/produto/monitor-lg-29wk600-B9VD4N-L.jpg",
         "price": 1427.98,
@@ -1016,7 +1016,7 @@
         ]
       },
       {
-        "id": 90,
+        "productID": 90,
         "model": "Monitor Asus VG32VQ 31.5″ 2560 x 1440 144 Hz",
         "img": "https://static.meupc.net/produto/monitor-asus-vg32vq-m3Tr56-L.jpg",
         "price": 2799.0,
@@ -1032,35 +1032,35 @@
         ]
       },
       {
-        "id": 91,
+        "productID": 91,
         "model": "Mouse Logitech G PRO Wireless",
         "img": "https://static.meupc.net/produto/mouse-logitech-g-pro-gpro-u7vki2-L.jpg",
         "price": 632.95,
         "description": ["Marca: Logitech", "Modelo: G PRO Wireless"]
       },
       {
-        "id": 92,
+        "productID": 92,
         "model": "Mouse Razer Deathadder V2",
         "img": "https://static.meupc.net/produto/mouse-razer-deathadder-v2-deathadderv2-BFyH82-L.jpg",
         "price": 408.91,
         "description": ["Marca: Razer", "Modelo: Deathadder"]
       },
       {
-        "id": 93,
+        "productID": 93,
         "model": "Mouse Logitech G203",
         "img": "https://static.meupc.net/produto/mouse-logitech-g203-mMk88m-L.jpg",
         "price": 112.9,
         "description": ["Marca: Logitech", "Modelo: G203"]
       },
       {
-        "id": 94,
+        "productID": 94,
         "model": "Mouse Multilaser MO270",
         "img": "https://static.meupc.net/produto/mouse-multilaser-mo270-zQX9U2-L.jpg",
         "price": 39.89,
         "description": ["Marca: Multilaser", "Modelo: MO270"]
       },
       {
-        "id": 95,
+        "productID": 95,
         "model": "Mouse HyperX Pulsefire FPS PRO",
         "img": "https://static.meupc.net/produto/mouse-hyperx-pulsefire-fps-pro-pulsefirefpspro-Aw388X-L.jpg",
         "price": 258.9,
