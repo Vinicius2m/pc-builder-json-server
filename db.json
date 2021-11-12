@@ -18,66 +18,250 @@
         "baseClock": "3.6",
         "coolerBox": true,
         "graphics": false,
-        "price": 1678.31
+        "price": 1678.31,
+        "psuWattage": 65,
+        "description": [
+          "Cores: 6",
+          "Threads: 12",
+          "Socket: AM4",
+          "Base Clock: 3.6",
+          "Cooler Box: Incluso",
+          "GPU Integrada: Não",
+          "Consumo: 65 Watts"
+        ]
       },
       {
-        "model": "Processador AMD Ryzen 5 3600, AM4, 3.6GHz",
-        "img": "https://static.meupc.net/produto/processador-amd-ryzen-5-3600-100100000031box-jXdm89-L.jpg",
-        "cores": "6",
-        "threads": "12",
+        "model": "Processador AMD Ryzen 7 5800X, AM4, 3.8GHz",
+        "img": "https://static.meupc.net/produto/processador-amd-ryzen-7-5800x-100100000063wof-g3T5mn-L.jpg",
+        "cores": "8",
+        "threads": "16",
         "socket": "AM4",
+        "baseClock": "3.8",
+        "coolerBox": true,
+        "graphics": false,
+        "price": 2599.9,
+        "psuWattage": 105,
+        "description": [
+          "Cores: 8",
+          "Threads: 16",
+          "Socket: AM4",
+          "Base Clock: 3.8",
+          "Cooler Box: Incluso",
+          "GPU Integrada: Não",
+          "Consumo: 105 Watts"
+        ]
+      },
+      {
+        "model": "Processador AMD Ryzen 9 5900X, AM4, 3.7 GHz",
+        "img": "https://static.meupc.net/produto/processador-amd-ryzen-9-5900x-100100000061wof-Bjt4U3-L.jpg",
+        "cores": "12",
+        "threads": "24",
+        "socket": "AM4",
+        "baseClock": "3.7",
+        "coolerBox": true,
+        "graphics": false,
+        "price": 2599.9,
+        "psuWattage": 105,
+        "description": [
+          "Cores: 12",
+          "Threads: 24",
+          "Socket: AM4",
+          "Base Clock: 3.7",
+          "Cooler Box: Incluso",
+          "GPU Integrada: Não",
+          "Consumo: 105 Watts"
+        ]
+      },
+      {
+        "model": "Processador Intel Core i3-10100F, LGA 1200, 3.6 GHz",
+        "img": "https://static.meupc.net/produto/processador-intel-core-i3-10100f-bx8070110100f-CTk878-L.jpg",
+        "cores": "4",
+        "threads": "8",
+        "socket": "LGA 1200",
         "baseClock": "3.6",
         "coolerBox": true,
         "graphics": false,
-        "price": 1678.31
+        "price": 657.46,
+        "psuWattage": 65,
+        "description": [
+          "Cores: 4",
+          "Threads: 8",
+          "Socket: LGA 1200",
+          "Base Clock: 3.6",
+          "Cooler Box: Incluso",
+          "GPU Integrada: Não",
+          "Consumo: 65 Watts"
+        ]
       },
       {
-        "model": "Processador AMD Ryzen 5 3600, AM4, 3.6GHz",
-        "img": "https://static.meupc.net/produto/processador-amd-ryzen-5-3600-100100000031box-jXdm89-L.jpg",
-        "cores": "6",
-        "threads": "12",
-        "socket": "AM4",
+        "model": "Processador Intel Core i3-10100, LGA 1200, 3.6 GHz",
+        "img": "https://static.meupc.net/produto/processador-intel-core-i3-10100f-bx8070110100f-CTk878-L.jpg",
+        "cores": "4",
+        "threads": "8",
+        "socket": "LGA 1200",
         "baseClock": "3.6",
         "coolerBox": true,
-        "graphics": false,
-        "price": 1678.31
+        "graphics": true,
+        "price": 897.9,
+        "psuWattage": 65,
+        "description": [
+          "Cores: 4",
+          "Threads: 8",
+          "Socket: LGA 1200",
+          "Base Clock: 3.6",
+          "Cooler Box: Incluso",
+          "GPU Integrada: UHD Graphics 630",
+          "Consumo: 65 Watts"
+        ]
       },
       {
-        "model": "Processador AMD Ryzen 5 3600, AM4, 3.6GHz",
-        "img": "https://static.meupc.net/produto/processador-amd-ryzen-5-3600-100100000031box-jXdm89-L.jpg",
+        "model": "Processador Intel Core i5-11600K, LGA 1200, 3.9 GHz",
+        "img": "https://static.meupc.net/produto/processador-intel-core-i5-11600k-bx8070811600k-ATXe46-L.jpg",
         "cores": "6",
         "threads": "12",
-        "socket": "AM4",
+        "socket": "LGA 1200",
+        "baseClock": "3.9",
+        "coolerBox": true,
+        "graphics": true,
+        "price": 1799.99,
+        "psuWattage": 125,
+        "description": [
+          "Cores: 8",
+          "Threads: 12",
+          "Socket: LGA 1200",
+          "Base Clock: 3.9",
+          "Cooler Box: Incluso",
+          "GPU Integrada: UHD Graphics 730",
+          "Consumo: 125 Watts"
+        ]
+      },
+      {
+        "model": "Processador Intel Core i7-11700K, LGA 1200, 3.6 GHz",
+        "img": "https://static.meupc.net/produto/processador-intel-core-i7-11700k-bx8070811700k-dHBH99-L.jpg",
+        "cores": "8",
+        "threads": "16",
+        "socket": "LGA 1200",
         "baseClock": "3.6",
         "coolerBox": true,
-        "graphics": false,
-        "price": 1678.31
+        "graphics": true,
+        "price": 2749.31,
+        "psuWattage": 125,
+        "description": [
+          "Cores: 8",
+          "Threads: 12",
+          "Socket: LGA 1200",
+          "Base Clock: 3.9",
+          "Cooler Box: Incluso",
+          "GPU Integrada: UHD Graphics 730",
+          "Consumo: 125 Watts"
+        ]
+      },
+      {
+        "model": "Processador Intel Core i9-11900K, LGA 1200, 3.5 GHz",
+        "img": "https://static.meupc.net/produto/processador-intel-core-i9-11900k-bx8070811900k-sX5Lj2-L.jpg",
+        "cores": "8",
+        "threads": "16",
+        "socket": "LGA 1200",
+        "baseClock": "3.7",
+        "coolerBox": false,
+        "graphics": true,
+        "price": 5016.88,
+        "psuWattage": 125,
+        "description": [
+          "Cores: 10",
+          "Threads: 20",
+          "Socket: LGA 1200",
+          "Base Clock: 3.7",
+          "Cooler Box: Não",
+          "GPU Integrada: UHD Graphics 750",
+          "Consumo: 125 Watts"
+        ]
       }
     ],
     "cooler": [
       {
         "model": "Cooler para Processador Scythe Ninja 5, Intel/AMD",
-        "img": "",
+        "img": "https://static.meupc.net/produto/cooler-processador-scythe-ninja-5-vL48Js-L.jpg",
         "socketCompatibility": ["AM4", "LGA1156", "LGA1200", "LGA1366"],
         "fanMinSpeed": "300",
         "fanMaxSpeed": "800",
-        "price": 399.99
+        "price": 399.99,
+        "description": [
+          "Marca: Scythe",
+          "Modelo: SCNJ-5000",
+          "Soquetes compatíveis: AM4 | LGA1156 | LGA1200 | LGA1366",
+          "Velocidade do ventilador: 300 ~ 800rpm"
+        ]
       },
       {
-        "model": "Cooler para Processador Scythe Ninja 5, Intel/AMD",
-        "img": "",
-        "socketCompatibility": ["AM4", "LGA1156", "LGA1200", "LGA1366"],
-        "fanMinSpeed": "300",
-        "fanMaxSpeed": "800",
-        "price": 399.99
+        "model": "Cooler de processador PCYes Nótus A Hidráulico",
+        "img": "https://static.meupc.net/produto/cooler-processador-pcyes-notus-a-qoy442-L.jpg",
+        "socketCompatibility": ["AM4", "FM1", "AM3", "AM2"],
+        "fanMinSpeed": "500",
+        "fanMaxSpeed": "1800",
+        "price": 80.89,
+        "description": [
+          "Marca: PCYes",
+          "Modelo: Nótus A",
+          "Soquetes compatíveis: AM4 | FM1 | AM3 | AM2",
+          "Velocidade do ventilador: 500 ~ 1800rpm"
+        ]
       },
       {
-        "model": "Cooler para Processador Scythe Ninja 5, Intel/AMD",
-        "img": "",
+        "model": "Cooler de processador Cooler Master Hyper H411R Fluido Dinâmico",
+        "img": "https://static.meupc.net/produto/cooler-processador-cooler-master-hyper-h411r-ir5Ew2-L.jpg",
         "socketCompatibility": ["AM4", "LGA1156", "LGA1200", "LGA1366"],
-        "fanMinSpeed": "300",
-        "fanMaxSpeed": "800",
-        "price": 399.99
+        "fanMinSpeed": "600",
+        "fanMaxSpeed": "2000",
+        "price": 249.99,
+        "description": [
+          "Marca: Cooler Master",
+          "Modelo: RR-H411-20PW-R1",
+          "Soquetes compatíveis: AM4 | LGA1156 | LGA1200 | LGA1366",
+          "Velocidade do ventilador: 600 ~ 2000rpm"
+        ]
+      },
+      {
+        "model": "Cooler de processador Thermaltake Frio Extreme CLP0587",
+        "img": "https://static.meupc.net/produto/cooler-processador-thermaltake-frio-extreme-clp0587-xG3I7r-L.jpg",
+        "socketCompatibility": ["AM4", "LGA1156", "LGA1200", "LGA1366"],
+        "fanMinSpeed": "600",
+        "fanMaxSpeed": "2000",
+        "price": 1069.37,
+        "description": [
+          "Marca: Thermaltake ",
+          "Modelo: CLP0587",
+          "Soquetes compatíveis: AM4 | LGA1156 | LGA1200 | LGA1366",
+          "Velocidade do ventilador: 600 ~ 2000rpm"
+        ]
+      },
+      {
+        "model": "Water Cooler Deepcool Gammaxx L120 V2 RGB",
+        "img": "https://static.meupc.net/produto/cooler-processador-deepcool-gammaxx-l120-v2-Bz9n9S-L.jpg",
+        "socketCompatibility": ["AM4", "LGA1156", "LGA1200", "LGA1366"],
+        "fanMinSpeed": "500",
+        "fanMaxSpeed": "1800",
+        "price": 406.8,
+        "description": [
+          "Marca: Deepcool",
+          "Modelo: Gammaxx L120 V2 RGB",
+          "Soquetes compatíveis: AM4 | LGA1156 | LGA1200 | LGA1366",
+          "Velocidade do ventilador: 600 ~ 2000rpm"
+        ]
+      },
+      {
+        "model": "Water Cooler Thermaltake Water 3.0 Riing RGB 280",
+        "img": "https://static.meupc.net/produto/cooler-processador-cooler-master-hyper-h411r-ir5Ew2-L.jpg",
+        "socketCompatibility": ["AM4", "LGA1156", "LGA1200", "LGA1366"],
+        "fanMinSpeed": "800",
+        "fanMaxSpeed": "1500",
+        "price": 1644.54,
+        "description": [
+          "Marca: Thermaltake",
+          "Modelo: CL-W138-PL14SW-A",
+          "Soquetes compatíveis: AM4 | LGA1156 | LGA1200 | LGA1366",
+          "Velocidade do ventilador: 800 ~ 1500rpm"
+        ]
       }
     ],
     "gpu": [
