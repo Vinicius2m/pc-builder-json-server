@@ -489,7 +489,7 @@
     "ram": [
       {
         "productID": 41,
-        "model": "Memória RAM Crucial Ballistix 8GB DDR4 2666MHz",
+        "model": "Memória Crucial Ballistix 8GB DDR4 2666MHz",
         "img": "https://images.kabum.com.br/produtos/fotos/135291/memoria-ram-crucial-ballistix-8gb-ddr4-2666-mhz-cl16-udimm-preto-bl8g26c16u4b_1609871709_gg.jpg",
         "clock": 2666,
         "capacity": 8,
@@ -500,7 +500,7 @@
       },
       {
         "productID": 42,
-        "model": "Memória RAM Corsair Vengeance RGB Pro 8GB DDR4 3200MHz",
+        "model": "Memória Corsair Vengeance RGB Pro 8GB DDR4 3200MHz",
         "img": "https://static.meupc.net/produto/memoria-corsair-vengeance-pro-cmw8gx4m1z3200c16-jVap79-L.jpg",
         "clock": 3200,
         "capacity": 8,
@@ -511,7 +511,7 @@
       },
       {
         "productID": 43,
-        "model": "Memória RAM Kingston HyperX Fury RGB 8GB DDR4 3000MHz",
+        "model": "Memória Kingston HyperX Fury RGB 8GB DDR4 3000MHz",
         "img": "https://static.meupc.net/produto/memoria-kingston-hyperx-fury-rgb-8-gb-hx430c15fb3a8-bin64H-L.jpg",
         "clock": 3000,
         "capacity": 8,
