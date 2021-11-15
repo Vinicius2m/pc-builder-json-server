@@ -165,6 +165,28 @@
       },
       {
         "productID": 8,
+        "model": "Processador Intel Core i7-9700K, LGA 1151, 3.6 GHz 8-Core",
+        "img": "https://static.meupc.net/produto/processador-intel-core-i7-11700k-bx8070811700k-dHBH99-L.jpg",
+        "cores": "8",
+        "threads": "8",
+        "socket": "LGA 1151",
+        "baseClock": "3.6",
+        "coolerBox": false,
+        "graphics": true,
+        "price": 2749.31,
+        "psuWattage": 95,
+        "description": [
+          "Cores: 8",
+          "Threads: 8",
+          "Socket: LGA 1151",
+          "Base Clock: 3.6",
+          "Cooler Box: Não",
+          "GPU Integrada: UHD Graphics 730",
+          "Consumo: 95 Watts"
+        ]
+      },
+      {
+        "productID": 9,
         "model": "Processador Intel Core i9-11900K, LGA 1200, 3.5 GHz",
         "img": "https://static.meupc.net/produto/processador-intel-core-i9-11900k-bx8070811900k-sX5Lj2-L.jpg",
         "cores": "8",
@@ -288,7 +310,7 @@
         "cores": "1920",
         "memClock": "14000",
         "output": ["3x DisplayPort", "1x HDMI"],
-        "psuWattage": "500",
+        "psuWattage": 180,
         "price": 4235.18,
         "description": [
           "Marca: Zotac",
@@ -308,7 +330,7 @@
         "cores": "869",
         "memClock": "6000",
         "output": ["2x DisplayPort", "1x HDMI"],
-        "psuWattage": "300",
+        "psuWattage": 110,
         "price": 2362.2,
         "description": [
           "Marca: Gainward",
@@ -322,13 +344,13 @@
       {
         "productID": 23,
         "model": "Placa de Vídeo Asus NVIDIA GeForce RTX 3090, 24GB, GDDR6X ROG STRIX GAMING",
-        "img": "https://static.meupc.net/produto/placa-video-asus-geforce-rtx-3090-geforcertx3090rogstrix24gb-ki84UL-L.jpg",
+        "img": "https://images.kabum.com.br/produtos/fotos/163879/placa-de-video-asus-rog-strix-rtx-3070-ti-o8g-gaming-19-gbps-8gb-gddr6x-ray-tracing-dlss-rgb-90yv0gw0-m0na00_1623333955_gg.jpg",
         "memory": "GDDR6",
         "vram": "24GB",
         "cores": "10496",
         "memClock": "19500",
         "output": ["3x DisplayPort", "2x HDMI"],
-        "psuWattage": "750",
+        "psuWattage": 380,
         "price": 30689.07,
         "description": [
           "Marca: Asus",
@@ -348,7 +370,7 @@
         "cores": "2304",
         "memClock": "7000",
         "output": ["3x DisplayPort", "1x HDMI", "1x DVI-D"],
-        "psuWattage": "500",
+        "psuWattage": 180,
         "price": 4863.9,
         "description": [
           "Marca: PowerColor",
@@ -368,7 +390,7 @@
         "cores": "5120",
         "memClock": "16000",
         "output": ["3x DisplayPort", "1x HDMI"],
-        "psuWattage": "850",
+        "psuWattage": 300,
         "price": 14117.53,
         "description": [
           "Marca: Asus",
@@ -388,7 +410,7 @@
         "cores": "2560",
         "memClock": "16000",
         "output": ["3x DisplayPort", "1x HDMI"],
-        "psuWattage": "700",
+        "psuWattage": 265,
         "price": 9029.9,
         "description": [
           "Marca: PowerColor",
@@ -407,10 +429,30 @@
         "img": "https://static.meupc.net/produto/placa-mae-asus-prime-z590m-plus-jYd44z-L.jpg",
         "chipset": "Intel Z590",
         "socket": "LGA1200",
-        "memory": { "max": "128GB", "tech": "DDR4", "slots": 4 },
+        "psuWattage": 70,
+        "memory": {
+          "max": 128,
+          "tech": "DDR4",
+          "slots": 4
+        },
         "graphicsOutput": ["1x DisplayPort", "1x DVI-D", "1x HDMI"],
+        "description": [
+          "Marca: Asus",
+          "Modelo: PRIME Z590-PLUS",
+          "Socket: LGA 1200",
+          "Memória Máxima: 128GB",
+          "Slots de memória: 4",
+          "Técnologia: DDR4",
+          "Slots PCI-E 16x: 2",
+          "Entradas Sata: 5",
+          "Entradas M2: 3",
+          "Entradas USB: 8"
+        ],
         "pcie16": 2,
-        "storage": { "sata": 5, "m2": 3 },
+        "storage": {
+          "sata": 5,
+          "m2": 3
+        },
         "usb": 8,
         "size": "ATX",
         "price": 1646.94
@@ -421,24 +463,52 @@
         "img": "https://static.meupc.net/produto/placa-mae-gigabyte-b550m-aorus-elite-bZd7k5-L.jpg",
         "chipset": "AMD B550M",
         "socket": "AM4",
-        "memory": { "max": "128GB", "tech": "DDR4", "slots": 4 },
+        "psuWattage": 105,
+        "memory": {
+          "max": 128,
+          "tech": "DDR4",
+          "slots": 4
+        },
         "graphicsOutput": ["1x DVI-D", "1x HDMI"],
+        "description": [
+          "Marca: Gigabyte",
+          "Modelo: B550M Aorus Elite",
+          "Socket: AM4",
+          "Memória Máxima: 128GB",
+          "Slots de memória: 4",
+          "Técnologia: DDR4",
+          "Slots PCI-E 16x: 2",
+          "Entradas Sata: 4",
+          "Entradas M2: 2",
+          "Entradas USB: 8"
+        ],
         "pcie16": 2,
-        "storage": { "sata": 4, "m2": 2 },
+        "storage": {
+          "sata": 4,
+          "m2": 2
+        },
         "usb": 8,
         "size": "mATX",
         "price": 1046.94
       },
       {
         "productID": 33,
-        "model": "Placa Mãe Asus ROG Strix X570-E Gaming, AMD LGA1200, ATX, DDR4",
+        "model": "Placa Mãe Asus ROG Strix X570-E Gaming, AM4, ATX, DDR4",
         "img": "https://static.meupc.net/produto/placa-mae-asus-rog-strix-x570-e-gaming-km49AQ-L.jpg",
         "chipset": "AMD X570-E",
         "socket": "AM4",
-        "memory": { "max": "128GB", "tech": "DDR4", "slots": 4 },
+        "psuWattage": 90,
+        "memory": {
+          "max": 128,
+          "tech": "DDR4",
+          "slots": 4
+        },
         "graphicsOutput": ["1x DisplayPort", "1x HDMI"],
         "pcie16": 3,
-        "storage": { "sata": 8, "m2": 1 },
+        "storage": {
+          "sata": 8,
+          "m2": 1
+        },
         "usb": 6,
         "size": "ATX",
         "price": 3170.13
@@ -449,10 +519,18 @@
         "img": "https://static.meupc.net/produto/placa-mae-asrock-z390-m-gaming-o9Ny5u-L.jpg",
         "chipset": "Intel Z390M",
         "socket": "LGA1151",
-        "memory": { "max": "64GB", "tech": "DDR4", "slots": 4 },
+        "psuWattage": 95,
+        "memory": {
+          "max": 64,
+          "tech": "DDR4",
+          "slots": 4
+        },
         "graphicsOutput": ["1x DVI-D", "1x HDMI"],
         "pcie16": 2,
-        "storage": { "sata": 6, "m2": 2 },
+        "storage": {
+          "sata": 6,
+          "m2": 2
+        },
         "usb": 5,
         "size": "mATX",
         "price": 1258.71
@@ -463,10 +541,18 @@
         "img": "https://static.meupc.net/produto/placa-mae-asus-prime-b450m-gaming-wv2v34-L.jpg",
         "chipset": "AMD B450",
         "socket": "AM4",
-        "memory": { "max": "64GB", "tech": "DDR4", "slots": 4 },
+        "psuWattage": 105,
+        "memory": {
+          "max": 64,
+          "tech": "DDR4",
+          "slots": 4
+        },
         "graphicsOutput": ["1x DVI-D", "1x VGA", "1x HDMI"],
         "pcie16": 1,
-        "storage": { "sata": 4, "m2": 1 },
+        "storage": {
+          "sata": 4,
+          "m2": 1
+        },
         "usb": 6,
         "size": "Micro ATX",
         "price": 529.9
@@ -477,10 +563,18 @@
         "img": "https://static.meupc.net/produto/placa-mae-msi-meg-z490-ace-pXzx38-L.jpg",
         "chipset": "Intel Z490",
         "socket": "LGA 1200",
-        "memory": { "max": "128GB", "tech": "DDR4", "slots": 4 },
+        "psuWattage": 75,
+        "memory": {
+          "max": 128,
+          "tech": "DDR4",
+          "slots": 4
+        },
         "graphicsOutput": [],
         "pcie16": 3,
-        "storage": { "sata": 6, "m2": 4 },
+        "storage": {
+          "sata": 6,
+          "m2": 4
+        },
         "usb": 8,
         "size": "ATX",
         "price": 2997.9
@@ -493,10 +587,17 @@
         "img": "https://images.kabum.com.br/produtos/fotos/135291/memoria-ram-crucial-ballistix-8gb-ddr4-2666-mhz-cl16-udimm-preto-bl8g26c16u4b_1609871709_gg.jpg",
         "clock": 2666,
         "capacity": 8,
+        "slots": 1,
         "tech": "DDR4",
         "price": 305.76,
         "psuWattage": 10,
-        "description": ["Clock: 2666Mhz", "Capacidade: 8GB", "Tecnologia: DDR4"]
+        "description": [
+          "Marca: Crucial",
+          "Modelo: Ballistix",
+          "Clock: 2666Mhz",
+          "Capacidade: 8GB",
+          "Tecnologia: DDR4"
+        ]
       },
       {
         "productID": 42,
@@ -504,10 +605,17 @@
         "img": "https://static.meupc.net/produto/memoria-corsair-vengeance-pro-cmw8gx4m1z3200c16-jVap79-L.jpg",
         "clock": 3200,
         "capacity": 8,
+        "slots": 1,
         "tech": "DDR4",
         "price": 541.06,
         "psuWattage": 10,
-        "description": ["Clock: 3200Mhz", "Capacidade: 8GB", "Tecnologia: DDR4"]
+        "description": [
+          "Marca: Corsair",
+          "Modelo: Vengeance",
+          "Clock: 3200Mhz",
+          "Capacidade: 8GB",
+          "Tecnologia: DDR4"
+        ]
       },
       {
         "productID": 43,
@@ -515,10 +623,17 @@
         "img": "https://static.meupc.net/produto/memoria-kingston-hyperx-fury-rgb-8-gb-hx430c15fb3a8-bin64H-L.jpg",
         "clock": 3000,
         "capacity": 8,
+        "slots": 1,
         "tech": "DDR4",
         "price": 471.12,
         "psuWattage": 10,
-        "description": ["Clock: 3000Mhz", "Capacidade: 8GB", "Tecnologia: DDR4"]
+        "description": [
+          "Marca: Kingston",
+          "Modelo: HyperX Fury RGB",
+          "Clock: 3000Mhz",
+          "Capacidade: 8GB",
+          "Tecnologia: DDR4"
+        ]
       },
       {
         "productID": 44,
@@ -526,10 +641,17 @@
         "img": "https://static.meupc.net/produto/memoria-kingston-hyperx-fury-hx426c16fb38-u3v75j-L.jpg",
         "clock": 2666,
         "capacity": 8,
+        "slots": 1,
         "tech": "DDR4",
         "price": 289.9,
         "psuWattage": 10,
-        "description": ["Clock: 2666Mhz", "Capacidade: 8GB", "Tecnologia: DDR4"]
+        "description": [
+          "Marca: Kigston",
+          "Modelo: HyperX Fury",
+          "Clock: 2666Mhz",
+          "Capacidade: 8GB",
+          "Tecnologia: DDR4"
+        ]
       },
       {
         "productID": 45,
@@ -537,10 +659,13 @@
         "img": "https://static.meupc.net/produto/memoria-gskill-trident-z-16gb-f43200c16d16gtzr-upZ77c-L.jpg",
         "clock": 3200,
         "capacity": 16,
+        "slots": 2,
         "tech": "DDR4",
         "price": 903.93,
         "psuWattage": 10,
         "description": [
+          "Marca: G.Skill",
+          "Modelo: Tridentz RGB",
           "Clock: 3200Mhz",
           "Capacidade: 2x8 GB",
           "Tecnologia: DDR4"
@@ -548,15 +673,18 @@
       },
       {
         "productID": 46,
-        "model": "Memória Corsair Vengeance LPX 8 GB DDR4-2666",
-        "img": "https://static.meupc.net/produto/memoria-corsair-vengeance-lpx-cmk8gx4m1a2666c16r-oQI49L-L.jpg",
-        "clock": 2666,
+        "model": "Memória G.Skill Aegis 16 GB (2x8 GB) DDR4-3200",
+        "img": "https://static.meupc.net/produto/memoria-gskill-aegis-f43200c16d16gis-v5Mo5B-L.jpg",
+        "clock": 3200,
         "capacity": 16,
+        "slots": 2,
         "tech": "DDR4",
-        "price": 299.93,
+        "price": 770.93,
         "psuWattage": 10,
         "description": [
-          "Clock: 2666Mhz",
+          "Marca: G.Skill",
+          "Modelo: Aegis",
+          "Clock: 3200Mhz",
           "Capacidade: 2x8 GB",
           "Tecnologia: DDR4"
         ]
@@ -572,6 +700,7 @@
         "cache": "256MB",
         "type": "HDD",
         "output": "SATA",
+        "psuWattage": 15,
         "price": 458.71,
         "description": [
           "Marca: Seagate",
@@ -590,6 +719,7 @@
         "capacity": "480GB",
         "type": "SSD",
         "output": "SATA",
+        "psuWattage": 10,
         "price": 492.82,
         "description": [
           "Marca: Sandisk",
@@ -605,7 +735,8 @@
         "img": "https://static.meupc.net/produto/ssd-samsung-970-evo-plus-970evoplus1tb-ma4uu6-L.jpg",
         "capacity": "1TB",
         "type": "SSD",
-        "output": "M.2 NVMe",
+        "output": "M2",
+        "psuWattage": 10,
         "price": 1281.35,
         "description": [
           "Marca: Samsung",
@@ -623,6 +754,7 @@
         "rpm": "7200",
         "cache": "256MB",
         "type": "HDD",
+        "psuWattage": 15,
         "output": "SATA",
         "price": 299.99,
         "description": [
@@ -641,7 +773,8 @@
         "img": "https://static.meupc.net/produto/ssd-gigabyte-ud-pro-aorusrgb512gb-jbd7v5-L.jpg",
         "capacity": "512 GB",
         "type": "SSD",
-        "output": "M.2 NVMe",
+        "output": "M2",
+        "psuWattage": 10,
         "price": 762.9,
         "description": [
           "Marca: Gigabyte",
@@ -657,7 +790,8 @@
         "img": "https://static.meupc.net/produto/ssd-lexar-aorus-nm100256gb-wer98Q-L.jpg",
         "capacity": "256 GB",
         "type": "SSD",
-        "output": "M.2 NVMe",
+        "output": "M2",
+        "psuWattage": 10,
         "price": 269.9,
         "description": [
           "Marca: Lexar",
@@ -681,6 +815,8 @@
         },
         "price": 399.9,
         "description": [
+          "Marca: Nox Hummer",
+          "Modelo: TGM",
           "Tamanho: Mid Tower",
           "Baia Interna 2.5: 2",
           "Baia Interna 3.5: 2",
@@ -700,6 +836,8 @@
         },
         "price": 432.8,
         "description": [
+          "Marca: Deelcool",
+          "Modelo: MATREXX 50",
           "Tamanho: Mid Tower",
           "Baia Interna 2.5: 4",
           "Baia Interna 3.5: 2",
@@ -719,6 +857,8 @@
         },
         "price": 329.25,
         "description": [
+          "Marca: Sharkoon",
+          "Modelo: M25",
           "Tamanho: Mid Tower",
           "Baia Interna 2.5: 2",
           "Baia Interna 3.5: 2",
@@ -738,6 +878,8 @@
         },
         "price": 412.3,
         "description": [
+          "Marca: Corsair",
+          "Modelo: Carbide 275R",
           "Tamanho: Mid Tower",
           "Baia Interna 2.5: 3",
           "Baia Interna 3.5: 2",
@@ -757,6 +899,8 @@
         },
         "price": 849.9,
         "description": [
+          "Marca: Cooler Master",
+          "Modelo: MASTERBOX MB520 ARGB",
           "Tamanho: Mid Tower",
           "Baia Interna 2.5: 6",
           "Baia Interna 3.5: 2",
@@ -776,6 +920,8 @@
         },
         "price": 738.9,
         "description": [
+          "Marca: Corsair",
+          "Modelo: iCUE 220T",
           "Tamanho: Mid Tower",
           "Baia Interna 2.5: 2",
           "Baia Interna 3.5: 2",
@@ -789,7 +935,7 @@
         "productID": 71,
         "model": "Fonte Corsair CV550 550 W ATX",
         "img": "https://static.meupc.net/produto/fonte-corsair-cv-cv550550w80plusbronze-t8T6tP-L.jpg",
-        "power": "550 W",
+        "power": 550,
         "voltage": "100-240V",
         "certificate": "80+ Bronze",
         "price": 289.9,
@@ -805,7 +951,7 @@
         "productID": 72,
         "model": "Fonte AeroCool KCAS 400 W ATX",
         "img": "https://static.meupc.net/produto/fonte-aerocool-mwe-white-series-kcas-w9GtN9-L.jpg",
-        "power": "400 W",
+        "power": 400,
         "voltage": "100-240V",
         "certificate": "80+",
         "price": 229.9,
@@ -821,7 +967,7 @@
         "productID": 73,
         "model": "Fonte Corsair CX750M 750 W ATX12V",
         "img": "https://static.meupc.net/produto/fonte-corsair-cxm-cx750m-hNkw98-L.jpg",
-        "power": "750 W",
+        "power": 750,
         "voltage": "100-240V",
         "certificate": "80+ Bronze",
         "price": 929.9,
@@ -837,7 +983,7 @@
         "productID": 74,
         "model": "Fonte Corsair HX1000i 1000 W ATX12V / EPS12V",
         "img": "https://static.meupc.net/produto/fonte-corsair-hxi-hx1000i-cVL24I-L.jpg",
-        "power": "1000 W",
+        "power": 1000,
         "voltage": "100-240V",
         "certificate": "80+ Platinum",
         "price": 4583.42,
@@ -853,7 +999,7 @@
         "productID": 75,
         "model": "Fonte Corsair CX650 650 W ATX12V",
         "img": "https://static.meupc.net/produto/fonte-corsair-cx-cx650-nT564J-L.jpg",
-        "power": "650 W",
+        "power": 650,
         "voltage": "100-240V",
         "certificate": "80+ Bronze",
         "price": 409.9,
@@ -869,7 +1015,7 @@
         "productID": 76,
         "model": "Fonte Corsair RM650X 650 W ATX12V / EPS12V",
         "img": "https://static.meupc.net/produto/fonte-corsair-rmx-rm650x-utG2k5-L.jpg",
-        "power": "650 W",
+        "power": 650,
         "voltage": "100-240V",
         "certificate": "80+ Gold",
         "price": 719.9,
@@ -942,8 +1088,8 @@
         "price": 1599.41,
         "output": ["1x DisplayPort", "1x HDMI"],
         "description": [
+          "Marca: LG",
           "Modelo: 29UM69G-B",
-          "Fabricante: LG",
           "Tamanho: 29",
           "Resolução: 2560x1080",
           "Taxa de atualização: 75Hz",
@@ -958,8 +1104,8 @@
         "price": 1429.22,
         "output": ["1x DisplayPort", "1x HDMI"],
         "description": [
+          "Marca: Acer",
           "Modelo: KG241Q",
-          "Fabricante: Acer",
           "Tamanho: 23.6",
           "Resolução: 1920x1080",
           "Taxa de atualização: 144Hz",
@@ -974,8 +1120,8 @@
         "price": 1629.9,
         "output": ["1x DisplayPort", "1x HDMI", "1x VGA"],
         "description": [
+          "Marca: AOC",
           "Modelo: 24G2/BK",
-          "Fabricante: AOC",
           "Tamanho: 29",
           "Resolução: 1920x1080",
           "Taxa de atualização: 144Hz",
@@ -990,8 +1136,8 @@
         "price": 2899.9,
         "output": ["1x DisplayPort", "2x HDMI"],
         "description": [
+          "Marca: LG",
           "Modelo: 34GL750",
-          "Fabricante: LG",
           "Tamanho: 34",
           "Resolução: 2560x1080",
           "Taxa de atualização: 144Hz",
@@ -1006,8 +1152,8 @@
         "price": 1427.98,
         "output": ["1x DisplayPort", "2x HDMI"],
         "description": [
+          "Marca: LG",
           "Modelo: 29WK600",
-          "Fabricante: LG",
           "Tamanho: 29",
           "Resolução: 2560x1080",
           "Taxa de atualização: 75Hz",
@@ -1019,11 +1165,11 @@
         "productID": 90,
         "model": "Monitor Asus VG32VQ 31.5″ 2560 x 1440 144 Hz",
         "img": "https://static.meupc.net/produto/monitor-asus-vg32vq-m3Tr56-L.jpg",
-        "price": 2799.0,
+        "price": 2799,
         "output": ["1x DisplayPort", "2x HDMI"],
         "description": [
+          "Marca: Asus",
           "Modelo: VG32VQ",
-          "Fabricante: Asus",
           "Tamanho: 31.5",
           "Resolução: 2560x1440",
           "Taxa de atualização: 144Hz",
