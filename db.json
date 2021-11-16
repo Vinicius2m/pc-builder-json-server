@@ -22,6 +22,8 @@
         "price": 1678.31,
         "psuWattage": 65,
         "description": [
+          "Marca: AMD",
+          "Modelo: Ryzen 5 3600",
           "Cores: 6",
           "Threads: 12",
           "Socket: AM4",
@@ -44,6 +46,8 @@
         "price": 2599.9,
         "psuWattage": 105,
         "description": [
+          "Marca: AMD",
+          "Modelo: Ryzen 7 5800X",
           "Cores: 8",
           "Threads: 16",
           "Socket: AM4",
@@ -66,6 +70,8 @@
         "price": 2599.9,
         "psuWattage": 105,
         "description": [
+          "Marca: AMD",
+          "Modelo: Ryzen 9 5900X",
           "Cores: 12",
           "Threads: 24",
           "Socket: AM4",
@@ -88,6 +94,8 @@
         "price": 657.46,
         "psuWattage": 65,
         "description": [
+          "Marca: Intel",
+          "Modelo: Core i3-10100F",
           "Cores: 4",
           "Threads: 8",
           "Socket: LGA 1200",
@@ -110,6 +118,8 @@
         "price": 897.9,
         "psuWattage": 65,
         "description": [
+          "Marca: Intel",
+          "Modelo: Core i3-10100",
           "Cores: 4",
           "Threads: 8",
           "Socket: LGA 1200",
@@ -132,6 +142,8 @@
         "price": 1799.99,
         "psuWattage": 125,
         "description": [
+          "Marca: Intel",
+          "Modelo: Core i5-11600K",
           "Cores: 8",
           "Threads: 12",
           "Socket: LGA 1200",
@@ -154,6 +166,8 @@
         "price": 2749.31,
         "psuWattage": 125,
         "description": [
+          "Marca: Intel",
+          "Modelo: Core i7-11700K",
           "Cores: 8",
           "Threads: 12",
           "Socket: LGA 1200",
@@ -176,6 +190,8 @@
         "price": 2749.31,
         "psuWattage": 95,
         "description": [
+          "Marca: Intel",
+          "Modelo: Core i7-9700K",
           "Cores: 8",
           "Threads: 8",
           "Socket: LGA 1151",
@@ -198,6 +214,8 @@
         "price": 5016.88,
         "psuWattage": 125,
         "description": [
+          "Marca: Intel",
+          "Modelo: Core i9-11900K",
           "Cores: 10",
           "Threads: 20",
           "Socket: LGA 1200",
@@ -498,12 +516,25 @@
         "chipset": "AMD X570-E",
         "socket": "AM4",
         "psuWattage": 90,
+
         "memory": {
           "max": 128,
           "tech": "DDR4",
           "slots": 4
         },
         "graphicsOutput": ["1x DisplayPort", "1x HDMI"],
+        "description": [
+          "Marca: Asus",
+          "Modelo: ROG Strix X570-E Gaming",
+          "Socket: AM4",
+          "Memória Máxima: 128GB",
+          "Slots de memória: 4",
+          "Técnologia: DDR4",
+          "Slots PCI-E 16x: 3",
+          "Entradas Sata: 8",
+          "Entradas M2: 1",
+          "Entradas USB: 6"
+        ],
         "pcie16": 3,
         "storage": {
           "sata": 8,
@@ -526,6 +557,18 @@
           "slots": 4
         },
         "graphicsOutput": ["1x DVI-D", "1x HDMI"],
+        "description": [
+          "Marca: Gigabyte",
+          "Modelo: Z390 M Gaming",
+          "Socket: LGA 1151",
+          "Memória Máxima: 64GB",
+          "Slots de memória: 4",
+          "Técnologia: DDR4",
+          "Slots PCI-E 16x: 2",
+          "Entradas Sata: 6",
+          "Entradas M2: 2",
+          "Entradas USB: 5"
+        ],
         "pcie16": 2,
         "storage": {
           "sata": 6,
@@ -537,7 +580,7 @@
       },
       {
         "productID": 35,
-        "model": "Placa-mãe Asus Prime B450M Gaming/BR Micro ATX, AMD B450, DDR4",
+        "model": "Placa-mãe Asus Prime B450M Gaming/BR Micro ATX, AM4 B450, DDR4",
         "img": "https://static.meupc.net/produto/placa-mae-asus-prime-b450m-gaming-wv2v34-L.jpg",
         "chipset": "AMD B450",
         "socket": "AM4",
@@ -548,6 +591,18 @@
           "slots": 4
         },
         "graphicsOutput": ["1x DVI-D", "1x VGA", "1x HDMI"],
+        "description": [
+          "Marca: Asus",
+          "Modelo: B450M Gaming/BR",
+          "Socket: AM4",
+          "Memória Máxima: 64GB",
+          "Slots de memória: 4",
+          "Técnologia: DDR4",
+          "Slots PCI-E 16x: 1",
+          "Entradas Sata: 4",
+          "Entradas M2: 1",
+          "Entradas USB: 6"
+        ],
         "pcie16": 1,
         "storage": {
           "sata": 4,
@@ -570,6 +625,18 @@
           "slots": 4
         },
         "graphicsOutput": [],
+        "description": [
+          "Marca: MSI",
+          "Modelo: MEG Z490 ACE",
+          "Socket: LGA1200",
+          "Memória Máxima: 128GB",
+          "Slots de memória: 4",
+          "Técnologia: DDR4",
+          "Slots PCI-E 16x: 3",
+          "Entradas Sata: 6",
+          "Entradas M2: 4",
+          "Entradas USB: 8"
+        ],
         "pcie16": 3,
         "storage": {
           "sata": 6,
