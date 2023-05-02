@@ -1,6 +1,6 @@
 # URL base da API
 
-https://pc-builder-json-api.herokuapp.com/
+https://pc-builder-json-server-production.up.railway.app
 
 ## Endpoints
 
